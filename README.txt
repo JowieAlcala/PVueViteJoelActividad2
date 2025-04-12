@@ -36,8 +36,7 @@ Projecte sense llicència específica. Tots els drets reservats.
 
 ## Contacte
 
-Creat per **Jowie Alcalá**  
-🌐 [GitHub: JowieAlcala](https://github.com/JowieAlcala)
+ELIMINANDO MI GITHUB PARA EL SEGUNDO COMMIT
 
 ---
 
