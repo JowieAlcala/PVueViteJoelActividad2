@@ -36,8 +36,8 @@ Projecte sense llicència específica. Tots els drets reservats.
 
 ## Contacte
 
-ELIMINANDO MI GITHUB PARA EL SEGUNDO COMMIT
-
+Creat per **Jowie Alcalá**  
+🌐 [GitHub: JowieAlcala](https://github.com/JowieAlcala)
 ---
 
-
+Y LO VUELVO A AÑADIR PARA EL TERCER COMMIT, NO SABIA QUE MAS HACER XD
